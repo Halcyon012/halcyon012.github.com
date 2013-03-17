@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://Halcyon012.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Books | My Octopress Blog]]></title>
+  <link href="http://Halcyon012.github.com/blog/categories/books/atom.xml" rel="self"/>
   <link href="http://Halcyon012.github.com/"/>
   <updated>2013-03-17T16:59:54+08:00</updated>
   <id>http://Halcyon012.github.com/</id>
